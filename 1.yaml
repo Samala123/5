@@ -53,4 +53,3 @@ stages:
         targetPath: '$(Build.ArtifactStagingDirectory)'
         artifact: 'drop'
         publishLocation: 'pipeline'  
-view rawbuild.yaml hosted with ❤ by GitHub
