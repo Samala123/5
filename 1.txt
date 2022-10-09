@@ -1,0 +1,5 @@
+pool : lak1
+appendCommitMessageToRunName:
+jobs:
+    - mvn install
+    
