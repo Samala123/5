@@ -3,3 +3,4 @@ appendCommitMessageToRunName:
 jobs:
     - mvn install
     
+    
